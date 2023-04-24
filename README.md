@@ -1,4 +1,4 @@
-# -CarolinaRivera-Sharks-
+# Carolina Rivera Sharks
 
 ## 1. Contexto
 
@@ -59,6 +59,8 @@ Una vez llegados a este punto enumero qué análisis se podrían hacer a partir 
 ## 6. Conclusiones
 
 ## 7. Bibliografia
+
+- https://www.kaggle.com/teajay/global-shark-attacks 
 
 
 

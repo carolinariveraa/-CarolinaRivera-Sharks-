@@ -55,7 +55,7 @@ Una vez llegados a este punto enumero qué análisis se podrían hacer a partir 
 Como era de esperar la mayoría de accidentes se producen en verano en USA, además el grupo de edad más atacado es entre 15 y 25 años. 
 Por último el porcentaje de fatalidad es del 24,4%
 
-## 7. Bibliografi
+## 7. Bibliografia
 
 - https://www.kaggle.com/teajay/global-shark-attacks 
 
